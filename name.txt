@@ -1,0 +1,35 @@
+[33mcommit 84c327746d205c6d57bbeddaaac4c7d3dff047ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gouravpatel018 <136092418+gouravpatel018@users.noreply.github.com>
+Date:   Mon Apr 1 22:49:52 2024 +0530
+
+    fistCommit
+
+[33mcommit a65d190ed1d67aee07d15b70c5a2aa75b270dcc4[m
+Author: gourav <prishi3859@gmail.com>
+Date:   Thu Mar 28 22:55:01 2024 +0530
+
+    this is new change / updation
+
+[33mcommit 5f106a7eccdf08d4da6ca6977a56238cb9b5f3f4[m
+Author: gourav <prishi3859@gmail.com>
+Date:   Wed Mar 27 23:56:05 2024 +0530
+
+    this is not gonna work
+
+[33mcommit 815a07240cb1a9dc47ab4df3755492ac02e93960[m
+Author: gourav <prishi3859@gmail.com>
+Date:   Wed Mar 27 23:39:59 2024 +0530
+
+    this ko commit kiya
+
+[33mcommit 3c5d57d502b03d3ce19251f3475b8d6a1c7642ea[m
+Author: gourav <prishi3859@gmail.com>
+Date:   Wed Mar 27 22:59:53 2024 +0530
+
+    .name.txt ka swp waale ki photo click
+
+[33mcommit e6f445965d18733d334af423a5f856b7ca08dabf[m
+Author: gourav <prishi3859@gmail.com>
+Date:   Wed Mar 27 19:25:49 2024 +0530
+
+    names.txt is being added now
